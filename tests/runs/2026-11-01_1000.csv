@@ -1,0 +1,2 @@
+route,operator,n,trips,delay_sum,n_over5,n_early,n_ontime,run_median
+72,First Bradford,30,25,10800.0,10,2,18,360.0

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trimmed SIRI-VM response in the shape BODS returns. Values are made up for the offline selftest. -->
+<Siri xmlns="http://www.siri.org.uk/siri" version="2.0">
+  <ServiceDelivery>
+    <ResponseTimestamp>2026-11-08T20:30:00+00:00</ResponseTimestamp>
+    <ProducerRef>DepartmentForTransport</ProducerRef>
+    <VehicleMonitoringDelivery>
+      <ResponseTimestamp>2026-11-08T20:30:00+00:00</ResponseTimestamp>
+      <VehicleActivity>
+        <RecordedAtTime>2026-11-08T20:29:30+00:00</RecordedAtTime>
+        <MonitoredVehicleJourney>
+          <LineRef>072</LineRef>
+          <DirectionRef>inbound</DirectionRef>
+          <PublishedLineName>72</PublishedLineName>
+          <OperatorRef>FBRA</OperatorRef>
+          <DestinationName>Bradford_Interchange</DestinationName>
+          <OriginAimedDepartureTime>2026-11-08T20:05:00+00:00</OriginAimedDepartureTime>
+          <VehicleLocation><Longitude>-1.7525</Longitude><Latitude>53.7955</Latitude></VehicleLocation>
+          <VehicleRef>69355</VehicleRef>
+        </MonitoredVehicleJourney>
+      </VehicleActivity>
+      <VehicleActivity>
+        <RecordedAtTime>2026-11-08T20:18:00Z</RecordedAtTime>
+        <MonitoredVehicleJourney>
+          <LineRef>72</LineRef>
+          <PublishedLineName>72</PublishedLineName>
+          <OperatorRef>FBRA</OperatorRef>
+          <DestinationName>Leeds_Infirmary_Street</DestinationName>
+          <OriginAimedDepartureTime>2026-11-08T19:50:00+00:00</OriginAimedDepartureTime>
+          <VehicleLocation><Longitude>-1.6500</Longitude><Latitude>53.8000</Latitude></VehicleLocation>
+          <VehicleRef>69402</VehicleRef>
+        </MonitoredVehicleJourney>
+      </VehicleActivity>
+      <VehicleActivity>
+        <RecordedAtTime>2026-11-08T20:29:00+00:00</RecordedAtTime>
+        <MonitoredVehicleJourney>
+          <LineRef>680</LineRef>
+          <PublishedLineName>680</PublishedLineName>
+          <OperatorRef>ARBB</OperatorRef>
+          <DestinationName>Bradford Interchange</DestinationName>
+          <OriginAimedDepartureTime>2026-11-08T19:40:00+00:00</OriginAimedDepartureTime>
+          <VehicleLocation><Longitude>-1.7520</Longitude><Latitude>53.8030</Latitude></VehicleLocation>
+          <VehicleRef>33012</VehicleRef>
+        </MonitoredVehicleJourney>
+      </VehicleActivity>
+      <VehicleActivity>
+        <RecordedAtTime>2026-11-08T20:27:00+00:00</RecordedAtTime>
+        <MonitoredVehicleJourney>
+          <LineRef>X6</LineRef>
+          <PublishedLineName>X6</PublishedLineName>
+          <OperatorRef>YTSY</OperatorRef>
+          <DestinationName>Leeds</DestinationName>
+          <VehicleLocation><Longitude>-1.5000</Longitude><Latitude>53.7000</Latitude></VehicleLocation>
+          <VehicleRef>11111</VehicleRef>
+        </MonitoredVehicleJourney>
+      </VehicleActivity>
+    </VehicleMonitoringDelivery>
+  </ServiceDelivery>
+</Siri>

@@ -1,0 +1,3 @@
+route,operator,n,trips,delay_sum,n_over5,n_early,n_ontime,run_median
+72,First Bradford,10,15,1500.0,2,1,7,120.0
+680,Arriva Yorkshire,5,3,100.0,0,1,4,20.0
